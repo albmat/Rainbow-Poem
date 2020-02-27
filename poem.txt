@@ -1,9 +1,12 @@
-The Rainbow and the Unicorn
-
+The Rainbow and the Unicorn and the Pony
 ...
 I missed something
 I am doing this again
 I am doing a new branch called Unicorn
+
+I created a new branch called ponies
+
 I added a new color
+
 
 These are the colors of the rainbow.
