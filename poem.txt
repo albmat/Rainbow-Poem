@@ -8,5 +8,6 @@ I created a new branch called ponies
 
 I added a new color
 Today is Thursday
+I love this day
 
 These are the colors of the rainbow.
