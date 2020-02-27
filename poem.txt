@@ -7,6 +7,6 @@ I am doing a new branch called Unicorn
 I created a new branch called ponies
 
 I added a new color
-
+Today is Thursday
 
 These are the colors of the rainbow.
